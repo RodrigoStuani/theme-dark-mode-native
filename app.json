@@ -1,0 +1,12 @@
+{
+  "name": "button",
+  "displayName": "button",
+  "expo": {
+    "name": "button",
+    "slug": "button",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
